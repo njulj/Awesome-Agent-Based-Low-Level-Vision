@@ -15,6 +15,7 @@ A curated list of awesome papers, codes, and resources exploring the intersectio
     - [Image Editing]
     - [Image Super-Resolution]
     - [Video Restoration]
+    - [Video Editing]
     - [Image Retouching]
 - [Contributing](##contributing)
 - [License](##license)
@@ -53,6 +54,13 @@ Image restoration and super-resolution have witnessed significant advancements w
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2026|ArXiv|**VQ-Jarvis**: Retrieval-Augmented Video Restoration Agent with Sharp Vision and Fast Thought|\[[paper](https://arxiv.org/pdf/2603.22998)\]|PKU|
+|             2025             |ArXiv|**MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration| \[[paper](https://arxiv.org/abs/2510.08508)\]\[[project page](https://mediax-sjtu.github.io/MoA-VR/)\]\[[code](https://github.com/MediaX-SJTU/MoA-VR)\] |                   SJTU          |
+
+### Video Editing
+| Year<div style="width:20px"> | Pub<div style="width:60px"> |Title<div style="width:550px">|                                            Links<div style="width:100px">                                             |Main Institution<div style="width:100px">|
+|:----------------------------:|:---------------------------:|:----:|:---------------------------------------------------------------------------------------------------------------------:|:----:|
+|             2025             |          SIGGRAPH           |**EditDuet**: A Multi-Agent System for Video Non-Linear Editing|   \[[paper](https://dl.acm.org/doi/10.1145/3721238.3730761)\]\[[project page](https://mudtriangle.com/editduet/)\]    |TTIC |
+
 
 ### Image Retouching
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
