@@ -7,6 +7,24 @@
 A curated list of awesome papers, codes, and resources exploring the intersection of **Autonomous Agents / (M)LLM Agents** for **Low-level Vision** and some related works.
 
 *This repository is maintained by [Lixin Wang]( 2059559391@qq.com) and [Jie Liu]( https://njulj.github.io/), feel free to contact us if you have any questions.*
+## 💬 Community & Discussion
+
+We welcome researchers, developers, and anyone interested in image restoration agents to join our community. Here you can:
+
+- Discuss recent papers and research ideas
+- Share open-source projects and useful resources
+- Ask technical questions and exchange implementation experience
+- Connect with others for potential research collaborations
+
+Join our QQ group: **1056914561**
+
+<p align="center">
+  <a href="./imgs/qq_group.png">
+    <img src="./imgs/qq_group.png" alt="QQ Group 1056914561" width="300">
+  </a>
+  <br>
+  <sub>Scan the QR code or search for the group number to join.</sub>
+</p>
 
 ## 📑 Table of Contents
 - [Awesome Agent for Low-level Vision](#awesome-agent-for-low-level-vision)
@@ -107,24 +125,6 @@ Welcome to contribute! If you find any awesome papers or projects that are not o
 1. Follow the exact format of the existing table entries.
 2. Ensure the link to the paper is working.
 3. If there is open-source code, please include the `[code]` link.
-## 💬 Community & Discussion
-
-We welcome researchers, developers, and anyone interested in image restoration agents to join our community. Here you can:
-
-- Discuss recent papers and research ideas
-- Share open-source projects and useful resources
-- Ask technical questions and exchange implementation experience
-- Connect with others for potential research collaborations
-
-Join our QQ group: **1056914561**
-
-<p align="center">
-  <a href="./imgs/qq_group.png">
-    <img src="./imgs/qq_group.png" alt="QQ Group 1056914561" width="300">
-  </a>
-  <br>
-  <sub>Scan the QR code or search for the group number to join.</sub>
-</p>
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
