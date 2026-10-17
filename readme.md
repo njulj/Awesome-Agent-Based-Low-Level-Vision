@@ -58,13 +58,15 @@ Image restoration and super-resolution have witnessed significant advancements w
 ### Image Restoration
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
+|2026|ArXiv|**HarnessIR**: Harnessing Multimodal Foundation Models for Universal Real-World Image Restoration|\[[paper](https://arxiv.org/abs/2610.10133)\]\[[project page](https://polyu-vclab.github.io/HarnessIR/)\]\[[code ✅](https://github.com/PolyU-VCLab/HarnessIR)\]|PolyU/OPPO|
+|2026|ArXiv|**EORestore-Agent**: Fidelity-Guided Agentic Restoration of Remote Sensing Images with Composite Degradations|\[[paper](https://arxiv.org/abs/2610.06196)\]|Waseda|
 |2026|ArXiV|**PaAgent**: Portrait-Aware Image Restoration Agent via Subjective-Objective Reinforcement Learning|\[[paper](https://arxiv.org/abs/2603.17055)\]\[[code pending ⏳](https://github.com/WYJGR/PaAgent)\]\[[project page](https://wyjgr.github.io/PaAgent.html)\]|NWPU|
 |2026|CVPR|**Beyond Sequential Tools**: A Unified VLM Agent System for Photographic Post-Processing via Dynamic Multi-Expert Fusion|\[[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xiong_Beyond_Sequential_Tools_A_Unified_VLM_Agent_System_for_Photographic_CVPR_2026_paper.html)\]|ShanghaiTech|
 |2026|IJCV|**Multi-Agent Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.09403)\]\[[project page](https://villa.jianzhang.tech/publication/200604/)\]|PKU|
 |2026|CVPRF|**Restore-R1**: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback|\[[paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_Restore-R1_Efficient_Image_Restoration_Agents_via_Reinforcement_Learning_with_Multimodal_CVPRF_2026_paper.pdf)\]\[[arXiv](https://arxiv.org/abs/2512.18599)\]|Amazon/NEU/UW-Madison|
 |2026|ECCV|Self-Evolving Agentic Image Restoration via Deliberate Planning and Intuitive Execution|\[[paper](https://arxiv.org/abs/2606.28971)\]|ISCAS|
 |2026|CVPR|**Hybrid Agents for Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.10120)\]|USTC|
-|2026|ArXiv|**Causal-AgentIR**: Self-Evolving Causal Memory for Adaptive Image Restoration Agents|\[[paper](https://arxiv.org/pdf/2607.21125)\]|SJTU|
+|2026|ArXiv|**Causal-AgentIR**: Self-Evolving Causal Memory for Adaptive Image Restoration Agents|\[[paper](https://arxiv.org/abs/2607.21125)\]|SJTU/HIT|
 |2026|ArXiv|**Derain-Agent**: A Plug-and-Play Agent Framework for Rainy Image Restoration|\[[paper](https://arxiv.org/pdf/2603.11866)\]|HIT|
 |2026|ArXiv|**OPERA**: An Agent for Image Restoration with End-to-End Joint Planning-Execution Optimization|\[[paper](https://arxiv.org/pdf/2605.22104)\]\[[code ✅](https://github.com/xsyshuishui/Opera)\]|HIT|
 |2026|ArXiv|**DiTTo**: Scalable Order-aware All-in-One Image Restoration Agent|\[[paper](https://arxiv.org/pdf/2605.30915v1)\]\[[code pending ⏳](https://github.com/CMLab-Korea/DiTTo-arxiv)\]\[[project page](https://cmlab-korea.github.io/DiTTo/)\]|Chung-Ang University|
